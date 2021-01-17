@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.header {
+}
+.header__top {
+height: 752px;
+width: 1440px;
+}
+.container {
+
+}
+.header__top-inner {
+}
+.logo {
+}
+.logo__link {
+}
+.logo__img {
+}
+.menu {
+
+
+}
+.menu__list {
+list-style: none;
+display: flex;	
+
+	
+}
+.menu__list-item {
+	
+}
+.menu__link {
+text-decoration: none;
+display: block;
+}
+.menu__link--active {
+}
